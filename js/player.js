@@ -5,7 +5,7 @@ var player_info = [
     title: "공격력 상승 국내 힙합",
     img: "",
     list: [{
-      id: "Bbl3qPS9x4o",
+      id: "MgXWmtwImFc",
       title: "Siren Remix (Feat. UNEDUCATED KID, Paul Blanco) (사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco))",
       name: "Homies · UNEDUCATED KID · Paul Blanco"
     },{
