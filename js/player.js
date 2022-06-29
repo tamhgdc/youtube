@@ -9,8 +9,8 @@ var player_info = [
       title: "Siren Remix (Feat. UNEDUCATED KID, Paul Blanco) (사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco))",
       name: "Homies · UNEDUCATED KID · Paul Blanco"
     },{
-      id: "1JHOl9CSmXk",
-      title: "Cold Blooded (with 스트릿 우먼 파이터 (SWF)) MV",
+      id: "MgXWmtwImFc",
+      title: "Nguyễn Đình Vũ gây hài cực mạnh Lạ Lắm À Nha, nhún nhảy song ca Rồi Tới Luôn cùng Tân Trề đỉnh cao",
       name: "Jessi (제시)"
     },{
       id: "hq9hcJIzB6w",
