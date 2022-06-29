@@ -6,8 +6,8 @@ var player_info = [
     img: "",
     list: [{
       id: "MgXWmtwImFc",
-      title: "Siren Remix (Feat. UNEDUCATED KID, Paul Blanco) (사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco))",
-      name: "Homies · UNEDUCATED KID · Paul Blanco"
+      title: "Siren Remix (Nguyễn Đình Vũ gây hài cực mạnh Lạ Lắm À Nha) (사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco))",
+      name: "Homies · UNEDUCATED KID · Nguyễn Đình Vũ"
     },{
       id: "MgXWmtwImFc",
       title: "Nguyễn Đình Vũ gây hài cực mạnh Lạ Lắm À Nha, nhún nhảy song ca Rồi Tới Luôn cùng Tân Trề đỉnh cao",
