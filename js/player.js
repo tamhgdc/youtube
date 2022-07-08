@@ -5,9 +5,9 @@ var player_info = [
     title: "공격력 상승 국내 힙합",
     img: "",
     list: [{
-      id: "MgXWmtwImFc",
-      title: "Siren Remix (Nguyễn Đình Vũ gây hài cực mạnh Lạ Lắm À Nha) (사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco))",
-      name: "Homies · UNEDUCATED KID · Nguyễn Đình Vũ"
+      id: "5YsHSP6A88g",
+      title: "Anh Về Miền Tây, Bến Sông Buồn - LK Nhạc Dân Ca Miền Tây Mới Nhất - LK Nhạc Miền Tây) (LK Nhạc Miền Tây (LK Nhạc Dân Ca Miền Tây Mới Nhất))",
+      name: "LK Nhạc Miền Tây"
     },{
       id: "MgXWmtwImFc",
       title: "Nguyễn Đình Vũ gây hài cực mạnh Lạ Lắm À Nha, nhún nhảy song ca Rồi Tới Luôn cùng Tân Trề đỉnh cao",
