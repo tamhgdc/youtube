@@ -13,9 +13,9 @@ var player_info = [
       title: "Nguyễn Đình Vũ gây hài cực mạnh Lạ Lắm À Nha, nhún nhảy song ca Rồi Tới Luôn cùng Tân Trề đỉnh cao",
       name: "Jessi (제시)"
     },{
-      id: "hq9hcJIzB6w",
-      title: "VVS (Feat. JUSTHIS) (Prod. GroovyRoom)",
-      name: "Miranni , Munchman , Khundi Panda , MUSHVENOM"
+      id: "5YsHSP6A88g",
+      title: "Anh Về Miền Tây, Bến Sông Buồn",
+      name: "LK Nhạc Dân Ca Miền Tây Mới Nhất - LK Nhạc Miền Tây"
     },{
       id: "PjLMkI9lt2c",
       title: "ON AIR (Feat. Loco, Jay Park & GRAY)",
